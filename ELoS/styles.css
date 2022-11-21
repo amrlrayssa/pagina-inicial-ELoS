@@ -1,0 +1,66 @@
+.page {
+  position:fixed;
+  width:1366px;
+  height:1366px;
+  padding:1px;
+  border:0;
+  left: 50%;
+  margin-left: -684px;
+}
+
+.robot {
+  position:absolute;
+  position: fixed;
+  width:1366px;
+  height:1366px;
+  padding:1px;
+  border:0;
+  left: 50%;
+  margin-left: 90px;
+  margin-top: 30px;
+}
+.botton {
+  position:absolute;
+  position: fixed;
+  width:1366px;
+  height:1366px;
+  padding:1px;
+  border:0;
+  left: 50%;
+  margin-left: -204px;
+  margin-top: 130px;
+}
+
+.bottonlvl1 {
+  position:absolute;
+  position: fixed;
+  width:1366px;
+  height:1366px;
+  padding:1px;
+  border:0;
+  left: 50%;
+  margin-left: -617px;
+  margin-top: 533px;
+}
+
+.bottonlvl2 {
+  position:absolute;
+  position: fixed;
+  width:1366px;
+  height:1366px;
+  padding:1px;
+  border:0;
+  left: 50%;
+  margin-left: -463px;
+  margin-top: 684px;
+}
+
+.virtus {
+  position:absolute;
+  position: fixed;
+  padding:1px;
+  border:0;
+  left: 50%;
+  margin-left: 600px;
+  margin-top: 0px;
+}
